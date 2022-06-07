@@ -1,0 +1,37 @@
+.sidebar{
+    position: absolute;
+    top: 60px;
+    height: 100vh;
+    left: 0;
+    padding: 17px;
+    width: 280px;
+    border-right: 1px solid #0000004d;
+
+}
+.summary{
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+}
+.project1{
+    display: flex;
+    justify-content: space-between;
+
+}
+.textMenu{
+   
+    font-size: 17px;
+    font-weight: 500;
+}
+.project1__left{
+    display: flex;
+    gap: 1rem;
+    padding: 10px;
+    align-items: center;
+align-items: center;
+}
+.sidebar_menuicon{
+
+    width: 29px;
+
+}
