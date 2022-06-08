@@ -19,7 +19,7 @@
 
 }
 .textMenu{
-   
+   margin: 0;
     font-size: 17px;
     font-weight: 500;
 }
@@ -32,6 +32,6 @@ align-items: center;
 }
 .sidebar_menuicon{
 
-    width: 29px;
+    width: 25px;
 
 }

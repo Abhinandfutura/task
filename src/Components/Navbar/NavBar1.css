@@ -23,11 +23,11 @@
 }
 .SF{
     background: black;
-    border-radius: 48%;
+    border-radius: 50%;
     color: white;
-    border:none;
+    border: none;
     width: 33px;
-    padding: 4px;
+    padding: 5px 5px;
     justify-content: center;
     display: flex;
     align-items: center;

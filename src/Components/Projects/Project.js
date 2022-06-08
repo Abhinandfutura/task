@@ -16,7 +16,11 @@ function Project() {
 <div className='projectBody__icons'>
     <div className="iconleft">
         <img src={listBox} className='iconlist'/>
-        <img src={verticalSquare}  style={{width:'26px'}}/>
+        <img src={verticalSquare}  style={{ width: '38px',
+        border:' 1px solid #00000054', 
+        padding: '4px',
+         borderLeft: 'none',
+    margin: 0}}/>
     </div>
     <div className="iconRight">
         <h6 style={{margin:0}}>Filter :</h6> 
